@@ -31,9 +31,7 @@ Rotational symmetry for a surface sample is characterized by: (1) A rotational s
 <tr>
  <td style="width:30%"><img src="media/optimal.jpg"/></td>
  <td>
-Based on the model of generalized rotational symmetry we develop an algorithm for curve-skeleton extraction from incomplete point clouds. Articulated shapes are generally composed by two types of regions: branch regions, which are associated with generalized rotational symmetry and joint regions, which are not.
-</br></br>
-This intuition is easily observable in the figure here on the left, where a shape is composed by three branches joining together in the middle, forming a letter Y shape. Colors in the figure illustrate which regions of the shape are considered as branches and which are considered a joints.
+Given the samples lying on a candidate cutting plane, we propose an optimization problem that is able to identify candidates for a meaningful rotational symmetry axis and rotational symmetry center, a "ROSA point" whoese (1) axis minimizes the sum of angular distances with the sample normals and (2) center minimizes the sum of distances to normal lines.
   </td>
 </tr>
 </table> 
