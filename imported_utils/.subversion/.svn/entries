@@ -1,0 +1,44 @@
+8
+
+dir
+0
+https://latis.cs.sfu.ca/svn/users/ata2/workspace_rosa/imported_utils/.subversion
+https://latis.cs.sfu.ca/svn/users/ata2
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+auth
+dir
+
+
+
+add
+
+config
+file
+
+
+
+add
+
+servers
+file
+
+
+
+add
+
+README.txt
+file
+
+
+
+add
+

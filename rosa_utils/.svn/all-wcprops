@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/users/ata2/!svn/ver/912/workspace_rosa/rosa_utils
+END
+pcloud_adj_matrix_mahalanobis.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/users/ata2/!svn/ver/912/workspace_rosa/rosa_utils/pcloud_adj_matrix_mahalanobis.m
+END
+min_idx.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/users/ata2/!svn/ver/912/workspace_rosa/rosa_utils/min_idx.m
+END
+symmnormal_smooth.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/users/ata2/!svn/ver/912/workspace_rosa/rosa_utils/symmnormal_smooth.m
+END
+max_idx.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/users/ata2/!svn/ver/912/workspace_rosa/rosa_utils/max_idx.m
+END
+mahalanobis_leth.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/users/ata2/!svn/ver/915/workspace_rosa/rosa_utils/mahalanobis_leth.m
+END
+rosa_recenter.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/users/ata2/!svn/ver/912/workspace_rosa/rosa_utils/rosa_recenter.m
+END
+symmnormal_smooth_demo.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/users/ata2/!svn/ver/912/workspace_rosa/rosa_utils/symmnormal_smooth_demo.m
+END
+rosa_drosa.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/users/ata2/!svn/ver/912/workspace_rosa/rosa_utils/rosa_drosa.m
+END
+compute_symmetrynormal.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/users/ata2/!svn/ver/912/workspace_rosa/rosa_utils/compute_symmetrynormal.m
+END
+rosa_dcrosa.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/users/ata2/!svn/ver/912/workspace_rosa/rosa_utils/rosa_dcrosa.m
+END
+rosa_lineextract.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/users/ata2/!svn/ver/912/workspace_rosa/rosa_utils/rosa_lineextract.m
+END
+symmnormal_variance.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/users/ata2/!svn/ver/912/workspace_rosa/rosa_utils/symmnormal_variance.m
+END
+curve_write_cg.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/users/ata2/!svn/ver/912/workspace_rosa/rosa_utils/curve_write_cg.m
+END
+symmetrynormal_smooth_demo.off
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/users/ata2/!svn/ver/912/workspace_rosa/rosa_utils/symmetrynormal_smooth_demo.off
+END
+pcloud_compute_neighbors_mahalanobis.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/users/ata2/!svn/ver/912/workspace_rosa/rosa_utils/pcloud_compute_neighbors_mahalanobis.m
+END
+pcloud_isoncut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/users/ata2/!svn/ver/913/workspace_rosa/rosa_utils/pcloud_isoncut.cpp
+END
+pcloud_isoncut.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/users/ata2/!svn/ver/913/workspace_rosa/rosa_utils/pcloud_isoncut.mexmaci
+END
+closest_projection_point.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/users/ata2/!svn/ver/914/workspace_rosa/rosa_utils/closest_projection_point.m
+END
+rosa_shrink.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/users/ata2/!svn/ver/912/workspace_rosa/rosa_utils/rosa_shrink.m
+END
